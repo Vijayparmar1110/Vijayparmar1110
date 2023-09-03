@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Data Analysis and Web Development**
+- 💬 Ask me about **Data Science and Web Development**
 
 - 📫 How to reach me **vijayvirenparmar@gmail.com**
 
