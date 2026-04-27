@@ -69,13 +69,6 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -85,12 +78,14 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
-#### 🧰 Tools & Design
+#### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+#### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -106,8 +101,8 @@ Proposal Writing  →  Architecture Design  →  Development  →  Testing  → 
 - 🔄 **AI Automation Workflows** — End-to-end business automation with N8N, Zapier, Make
 - 🏗️ **Backend APIs** — Production-grade REST APIs with FastAPI, Celery & Redis task queues
 - 🧠 **RAG Pipelines** — Retrieval-Augmented Generation using ChromaDB & Pinecone
+- ☁️ **Cloud Deployments** — Hosting and scaling AI solutions on AWS & Azure
 - 📊 **Data Science Solutions** — ML models, data analysis, and insight generation
-- 🌐 **Full-Stack Web Apps** — React + Django/Node.js powered applications
 
 ---
 
