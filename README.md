@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Parmar</h1>
-<h3 align="center">AI/ML Developer · Data Analyst · Web Developer · India</h3>
+<h3 align="center">Jr. AI/ML Engineer · Generative AI · Agentic AI · AI Automation · Backend Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vijayparmar1110" target="blank">
@@ -17,45 +17,80 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **ML models** and **AI-powered web applications**
-- 📊 1+ year of experience in **Data Analysis**, **Machine Learning**, and **Full-Stack Web Development**
-- 🌱 Actively learning **Deep Learning**, **NLP**, and **LLM integrations**
-- 💬 Ask me about **Python, Data Science, React, Django, or anything AI/ML**
+- 💼 Currently working as **Jr. AI/ML Engineer @ Nexgits Private Limited**
+- 🤖 Focused on **Generative AI, Agentic AI, and AI Automation** with real business impact
+- 🔧 Building end-to-end AI solutions — from **proposal writing to production deployment**
+- ⚡ Creating automation pipelines using **N8N, Zapier, and Make.com**
+- 🐍 Backend development with **Python & FastAPI** for seamless AI integrations
+- 📰 I regularly share **tech insights and AI news** on LinkedIn
 - 📫 Reach me at **vijayvirenparmar@gmail.com**
+
+---
+
+### 💼 Work Experience
+
+**Jr. AI/ML Engineer — Nexgits Private Limited** *(Current)*
+> Building intelligent AI-driven systems and automation pipelines that help businesses work smarter and scale faster. Involved end-to-end — from project proposals to deployment.
+
+**AI/ML Intern — Nividous Software Solutions** *(Previous)*
+> Hands-on experience developing machine learning models and applying data-driven techniques to solve real-world problems.
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### AI / Machine Learning
+#### 🤖 AI / ML / Generative AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+#### ⚙️ AI Automation
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white)
+
+#### 🔧 Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### Databases
+#### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-#### Tools & Others
+#### 🧰 Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+### 🚀 What I Build
+
+```text
+Proposal Writing  →  Architecture Design  →  Development  →  Testing  →  Deployment
+```
+
+- 🧩 **Agentic AI Systems** — Multi-agent pipelines using LangChain & LangGraph
+- 🔄 **AI Automation Workflows** — End-to-end business automation with N8N, Zapier, Make
+- 🏗️ **Backend APIs** — Scalable REST APIs with FastAPI & Python for AI integrations
+- 📊 **Data Science Solutions** — ML models, data analysis, and insight generation
+- 🌐 **Full-Stack Web Apps** — React + Django/Node.js powered applications
 
 ---
 
@@ -71,6 +106,18 @@
 </p>
 
 ---
+
+### 📰 I Write About
+
+> On LinkedIn, I regularly post insights on AI tools, Generative AI trends, automation techniques, and real-world ML use cases.
+>
+> 👉 [Follow me on LinkedIn](https://linkedin.com/in/vijayparmar1110) to stay updated.
+
+---
+
+<p align="center">
+  <i>"Building AI solutions that don't just work on paper — but deliver real business impact."</i>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vijayparmar1110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
