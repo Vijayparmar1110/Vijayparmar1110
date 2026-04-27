@@ -23,6 +23,7 @@
 - ⚡ Creating automation pipelines using **N8N, Zapier, and Make.com**
 - 🐍 Backend development with **Python & FastAPI** for seamless AI integrations
 - 📰 I regularly share **tech insights and AI news** on LinkedIn
+- 📂 I share everything here — from **practice experiments to production-level projects**
 - 📫 Reach me at **vijayvirenparmar@gmail.com**
 
 ---
