@@ -8,9 +8,6 @@
   <a href="mailto:vijayvirenparmar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-vijayvirenparmar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/vijayparmar1110_" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-vijayparmar1110__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </p>
 
 ---
